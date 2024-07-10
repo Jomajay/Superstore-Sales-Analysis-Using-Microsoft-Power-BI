@@ -1,6 +1,10 @@
 # Superstore-Sales-Analysis-Using-Microsoft-Power-BI
 -----------------------------------------------------
 
+## Superstore Sales Dashboard Interface
+![Superstore Sales Dashboard](https://drive.google.com/uc?id=1cHhg6OAN8GcCor37HLooGShRhzMakFuC)
+
+
 ## Table of Contents
 1. [Project Overview](#project-overview)
 2. [Dashboard Components](#dashboard-components)
@@ -28,6 +32,7 @@
       5. [Personalize Marketing Campaigns](#personalize-marketing-campaigns)
       6. [Support Sales Team](#support-sales-team)
 4. [Conclusion](#conclusion)
+5. [Interactive Dashboard](#interactive-dashboard)
 
 
 ## Project Overview
@@ -130,3 +135,6 @@ This project presents a comprehensive analysis of sales performance using an int
 
 ## Conclusion
 The Sales Performance Analysis Dashboard provides valuable insights into various aspects of sales data, aiding stakeholders in making informed decisions. By leveraging these insights, businesses can develop targeted strategies to optimize their sales performance, improve regional sales disparities, and capitalize on seasonal trends. The detailed analysis of product performance and customer demographics further supports strategic decision-making regarding product lines and marketing efforts. Finally, understanding sales team performance can help in fostering a competitive and supportive sales environment, driving overall business success.
+
+## Interactive Dashboard
+To interact with the Superstore Sales Dashboard, please [click here](https://app.powerbi.com/links/mpsi2z9_DC?ctid=009f81a6-c776-4a98-b42c-0951ae796d92&pbi_source=linkShare).
