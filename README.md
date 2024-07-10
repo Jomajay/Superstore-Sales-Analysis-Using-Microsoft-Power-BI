@@ -2,7 +2,7 @@
 -----------------------------------------------------
 
 ## Superstore Sales Dashboard Interface
-![Superstore Sales Dashboard](https://drive.google.com/uc?id=1cHhg6OAN8GcCor37HLooGShRhzMakFuC)
+![Superstore Sales Dashboard](https://drive.google.com/file/d/1dnsPsyNcJYKK_cD7siwJ0ww1CUmzstKw)
 
 
 ## Table of Contents
